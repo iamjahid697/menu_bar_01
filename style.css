@@ -12,6 +12,10 @@ section.section1 {
     background-size: cover;
 }
 
+section.section2 {
+    padding: 100px;
+}
+
 nav {
     position: fixed;
     top: 0;
